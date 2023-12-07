@@ -11,4 +11,4 @@ Utilizar los distintos métodos de clasificación vistos en clase para analizar 
 
 **Datasets usados:** https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data & https://www.kaggle.com/datasets/cjgdev/formula-1-race-data-19502017 
 
-**Vídeo explicativo:** 
+**Vídeo:** https://www.youtube.com/watch?v=c2aiWkuaYeA
